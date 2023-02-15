@@ -1,0 +1,6 @@
+{
+  "id": "cle4t373x0000jo0875o2cnht",
+  "name": "nextjs-fleek-test",
+  "distDir": "out",
+  "buildCommand": "npm run build"
+}
